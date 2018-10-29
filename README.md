@@ -32,5 +32,5 @@ Feature selection tool 1 rfpimp
 ref: http://explained.ai/rf-importance/index.html or https://github.com/parrt/random-forest-importances/blob/master/notebooks/pimp_plots.ipynb
 
 Feature selection tool 2 feature_selector
--This needs the use code from https://github.com/WillKoehrsen/feature-selector/tree/master/feature_selector
+-This needs to use code from https://github.com/WillKoehrsen/feature-selector/tree/master/feature_selector
 ```

@@ -9,7 +9,6 @@ For performing this analysis, please use following data sources:
 •	‘sales_granular.csv’ - contains information about the sales volumes of a product at particular POS; each POS is uniquely identified by 'store_code'.
 •	‘Surroundings.json’ - contains information about 90 different amenities (restaurants, shops, beauty salons etc.) that are in the surroundings of each POS.
 
-Both data sets are available for download here: https://drive.google.com/drive/folders/1XYzYT-ZzBT58YbuZDdYl4JUMpDdG7cIc?usp=sharing 
 
 ## Dependencies
 
